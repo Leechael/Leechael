@@ -13,5 +13,3 @@ Skills: REACT / TS / JS / Python / PHP
   />
   <img src="https://github-readme-stats.vercel.app/api?username=leechael&show_icons=true" />
 </picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechael&size_weight=0.5&count_weight=0.5&langs_count=20&layout=donut-vertical)
