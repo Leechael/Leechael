@@ -20,26 +20,39 @@
 ### Confidential Computing & Cloud
 
 - **[Dstack](https://github.com/Dstack-TEE/dstack)** - Open framework for confidential AI, a Linux Foundation project `Rust`
-- **[Phala Cloud](https://github.com/Phala-Network/phala-cloud)** - Confidential Computing native cloud platform `TypeScript`
-- **[Phala Cloud CLI](https://github.com/Phala-Network/phala-cloud-cli)** - CLI to interact with Phala Cloud `TypeScript`
+- **[Phala Cloud](https://github.com/Phala-Network/phala-cloud)** - Confidential Computing native cloud platform (includes CLI) `TypeScript`
 - **[DCAP QVL](https://github.com/Phala-Network/dcap-qvl)** - Intel DCAP Quote Verification Library `Rust`
 - **[Dstack Examples](https://github.com/Dstack-TEE/dstack-examples)** - Examples and utilities for dstack applications `Python`
 - **[Meta Dstack](https://github.com/Dstack-TEE/meta-dstack)** - Yocto/OE layer for dstack `BitBake`
 
-### Tools & Side Projects
+### Tools & CLI
 
+AI agent first, human friendly.
+
+- **[jingui](https://github.com/Leechael/jingui)** - 1Password for AI agents, on TEE `Go`
+- **[gemini-web-cli](https://github.com/Leechael/gemini-web-cli)** - Google Gemini CLI via browser cookies `Go`
+- **[manus-cli](https://github.com/Leechael/manus-skills)** - CLI for Manus AI API `Go`
+- **[roam-cli](https://github.com/Leechael/roam-cli)** - CLI for Roam Research: page retrieval, search, datalog queries, markdown import `Go`
+- **[readwise-cli](https://github.com/Leechael/readwise-skills)** - CLI for Readwise highlights and Reader documents `Go`
 - **[cio](https://github.com/Leechael/customerio-skills)** - CLI for the Customer.io App API `Go`
-- **[roam-cli](https://github.com/Leechael/roamresearch-skills)** - CLI for Roam Research: page retrieval, search, datalog queries, markdown import `Go`
+- **[substack-cli](https://github.com/Leechael/substack-cli)** - Fetch posts, resolve profiles, download articles as Markdown `Go`
+- **[things3-cli](https://github.com/Leechael/things3-cli)** - CLI for Things 3 via local SQLite `Go`
+- **[mava-cli](https://github.com/Leechael/mava-cli)** - CLI for Mava support tickets `Go`
+- **[openlist-cli](https://github.com/Leechael/openlist-cli)** - CLI for the OpenList API `Go`
+- **[nano-banana](https://github.com/Leechael/nano-banana-cli)** - AI image generation CLI powered by Gemini `Go`
+- **[Browser Agent](https://github.com/Leechael/browser-agent)** - Read tweets with RESTful API `TypeScript`
+
+### Agent Skills & Integrations
+
 - **[Email Copilot Skill](https://github.com/Leechael/email-copilot-skill)** - AI-powered email copilot agent skill `Python`
 - **[pi-provider-kimi-code](https://github.com/Leechael/pi-provider-kimi-code)** - Kimi Code provider for pi-coding-agent `TypeScript`
 - **[FastAPI API Docs Skills](https://github.com/Leechael/fastapi-api-docs-skills)** - Agent skills for analyzing FastAPI routes and completing API docs
-- **[Roam Research Client](https://github.com/Leechael/roamresearch-client-py)** - ~~Roam Research Python client with MCP support~~ `deprecated` → see **roam-cli** above
-- **[Browser Agent](https://github.com/Leechael/browser-agent)** - Read tweets with RESTful API `TypeScript`
+- **[go-api-cli-playbook](https://github.com/Leechael/go-api-cli-playbook)** - Reusable engineering playbook for building Go CLI tools on top of APIs
 
 ## Open Source Contributions
 
 - **[bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker)** - Make bilingual epub books `9k+ stars`
-- **[CodexBar](https://github.com/steipete/CodexBar)** - Keep agent token limits in view `5.5k+ stars`
+- **[CodexBar](https://github.com/steipete/CodexBar)** - Keep agent token limits in view `9.5k+ stars`
 - **[Intel DCAP](https://github.com/intel/confidential-computing.tee.dcap)** - Intel's confidential computing DCAP project `321 stars`
 - **[hono-mcp-server-sse-transport](https://github.com/NikaBuligini/hono-mcp-server-sse-transport)** - Hono MCP Server SSE Transport
 
@@ -47,7 +60,7 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Leechael)
 
-5,900+ contributions in 2025 | On GitHub since 2009
+8,400+ contributions in 2025 | On GitHub since 2009
 
 ## Connect
 
